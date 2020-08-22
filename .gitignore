@@ -1,5 +1,4 @@
 лок16.qst
-Dreams.ink
 Dreams.zip
 fireurq.exe - Ярлык — Acer.lnk
 fireurq.exe - Ярлык.lnk
@@ -8,68 +7,10 @@ lok16.Acer.sublime-workspace
 noiz.qst
 noiz.qsz
 skin.xml
-!DIFF/1.qst
-!DIFF/1.qst~
-!DIFF/зок11 (1).txt
-!DIFF/зок11.qst
-!DIFF/зок11.qst~
-!DIFF/Скриншот 2016-08-02 00.28.26.gif
-!DIFF/carriage_back.png
-!DIFF/carriage.png
-!DIFF/carriage.xcf
-!DIFF/CSstandart_14.fnt
-!DIFF/CSstandart_14.png
-!DIFF/dre.qsz
-!DIFF/light.png
-!DIFF/skin.xml~
-!DIFF/tex.xcf
-!DIFF/tex1.png
-!DIFF/urQsp.png
-!DIFF/urQsp.xcf
-bg/carriage_full.png
-bg/summer.png
-fnt/OpenSans-Regular.ttf
-img/logo.png
-img/tex.png
-Inspiration/hQygkuYBNR8.jpg
-Inspiration/KXBCMbDa3tM.jpg
-Inspiration/KZoryBKUlug.jpg
-Inspiration/nv3T-wsISuo.jpg
-Inspiration/W_0wDdjSKF0.jpg
-!DIFF/1.qst
-!DIFF/1.qst~
-!DIFF/зок11 (1).txt
-!DIFF/зок11.qst
-!DIFF/зок11.qst~
-!DIFF/Скриншот 2016-08-02 00.28.26.gif
-!DIFF/carriage_back.png
-!DIFF/carriage.png
-!DIFF/carriage.xcf
-!DIFF/CSstandart_14.fnt
-!DIFF/CSstandart_14.png
-!DIFF/dre.qsz
-!DIFF/light.png
-!DIFF/skin.xml~
-!DIFF/tex.xcf
-!DIFF/tex1.png
-!DIFF/urQsp.png
-!DIFF/urQsp.xcf
-!DIFF/urQsp.xcf
-DIFF/1.qst
-DIFF/1.qst~
-DIFF/зок11 (1).txt
-DIFF/зок11.qst
-DIFF/зок11.qst~
-DIFF/Скриншот 2016-08-02 00.28.26.gif
-DIFF/carriage_back.png
-DIFF/carriage.png
-DIFF/carriage.xcf
-DIFF/CSstandart_14.fnt
-DIFF/CSstandart_14.png
-DIFF/dre.qsz
-DIFF/light.png
-DIFF/skin.xml~
-DIFF/tex.xcf
-DIFF/tex1.png
-DIFF/urQsp.png
-DIFF/urQsp.xcf
+bg/
+fnt/
+img/
+Inspiration/
+DIFF/
+.gitignore
+.vscode/
